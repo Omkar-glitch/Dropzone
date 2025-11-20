@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+xcuserdata/
+DerivedData/
+.netrc
+Dropzone.app/
+*.swp
+*~
